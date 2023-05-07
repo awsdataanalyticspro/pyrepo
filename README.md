@@ -1,2 +1,1 @@
-# pyrepo
-Projects in python.
+#This is python project based on OOP concept.
