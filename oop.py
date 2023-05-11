@@ -16,7 +16,7 @@ while (True):
     cast = input('Enter cast name:')
     movie_ref = Movie(title, cast)
     list_of_movies.append(movie_ref)
-    print("Movie and cast added successfully.")
+    print("Movie and cast are added successfully.")
 
     option = input('Do you want to add more movie (Y/N):')
     if option.lower() == 'n':
