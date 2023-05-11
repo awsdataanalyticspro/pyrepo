@@ -1,1 +1,1 @@
-#This is python project based on OOP concept.
+# Python projects and concepts.
